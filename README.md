@@ -4,7 +4,7 @@ IT Engineering student with a focus on mobile development and AI. This repositor
 
 ## About Me
 
-I'm working toward an IT Engineer's degree, where I've gained most of my experience. My bachelor's thesis was in **Android development**, and my current master's thesis explores **Large Language Models (LLMs)**.
+I'm working toward an IT Engineer's degree, where I've gained most of my experience. My bachelor's thesis was in **Android development**, and my current master's thesis focuses on **Large Language Models (LLMs)**.
 
 ## Skills
 
