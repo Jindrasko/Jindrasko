@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Jindrasko/Jindrasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Engineering student with a focus on mobile development and AI. This repository collects projects from my degree.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm working toward an IT Engineer's degree, where I've gained most of my experience. My bachelor's thesis was in **Android development**, and my current master's thesis explores **Large Language Models (LLMs)**.
+
+## Skills
+
+- **Mobile:** Android · iOS
+- **AI / ML:** Machine Learning · LLMs
+- **Languages:** Python · C++
+- **Other:** SQL & Databases
