@@ -8,7 +8,7 @@ I'm working toward an IT Engineer's degree, where I've gained most of my experie
 
 ## Skills
 
-- **Mobile:** Android · iOS
-- **AI / ML:** Machine Learning · LLMs
-- **Languages:** Python · C++
+- **Mobile:** Android, iOS
+- **AI / ML:** Machine Learning, LLMs
+- **Languages:** Python, Kotlin, C++
 - **Other:** SQL & Databases
