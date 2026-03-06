@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-IT Engineering student with a focus on mobile development and AI. This repository collects projects from my degree.
+I'm an IT Engineering student with a focus on mobile development and AI. This repository collects projects I made over the last years.
 
 ## About Me
 
